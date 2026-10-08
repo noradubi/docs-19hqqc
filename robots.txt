@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-i8sqo3.12thstar.org/sitemap.xml
